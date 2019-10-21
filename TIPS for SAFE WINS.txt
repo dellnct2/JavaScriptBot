@@ -135,42 +135,42 @@ margin-left:36.0pt;margin-bottom:.0001pt'>&nbsp;</p>
 margin-left:36.0pt;margin-bottom:.0001pt'>14. REMEMBER:</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            1. Minimum balance:
+margin-left:72.0pt;margin-bottom:.0001pt'>1. Minimum balance:
 0.015.   </p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            2. Set Basebet: </p>
+margin-left:72.0pt;margin-bottom:.0001pt'>2. Set Basebet: </p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>                        1. If balance
+margin-left:144.0pt;margin-bottom:.0001pt'>1. If balance
 &lt;= 1: Basebet = 0.00000001. </p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>                        2. If balance
+margin-left:144.0pt;margin-bottom:.0001pt'>2. If balance
 &gt; 1:  Basebet = your balance x 0.00000010. </p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            3. Set Target profit:
+margin-left:72.0pt;margin-bottom:.0001pt'>3. Set Target profit:
 10%.</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            4. Set Largest Loss
+margin-left:72.0pt;margin-bottom:.0001pt'>4. Set Largest Loss
 Amount (STOP LOSS): 100% or up to you.</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            5. Contact me every day
+margin-left:72.0pt;margin-bottom:.0001pt'>5. Contact me every day
 to update latest NCT Dicebot Script.</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            6. Do not play big
-balance. High risk, you will lose quickly.</p>
+margin-left:72.0pt;margin-bottom:.0001pt'>6. Do not play big
+balance. High risk, you will lose quickly:</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>                        1. Safe
+margin-left:144.0pt;margin-bottom:.0001pt'>1. Safe
 balance: 50$. </p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>                        2. Maximum
+margin-left:144.0pt;margin-bottom:.0001pt'>2. Maximum
 balance: 100$.</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
@@ -207,59 +207,59 @@ DOGE, BTC, BCH, ETH, ETC, LTC, DASH, ZEC, XMR, BURST... high win rate, fast,
 unlimited bet amount:</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            1.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>1.  <a
 href="http://bit.ly/2uoLpnU" target="_blank">http://bit.ly/2uoLpnU</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            2.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>2.  <a
 href="http://bit.ly/2nDRidf" target="_blank">http://bit.ly/2nDRidf</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            3.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>3.  <a
 href="http://bit.ly/2U3gkRd" target="_blank">http://bit.ly/2U3gkRd</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            4.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>4.  <a
 href="http://bit.ly/2OyDOhw" target="_blank">http://bit.ly/2OyDOhw</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            5.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>5.  <a
 href="http://bit.ly/2SCKPwG" target="_blank">http://bit.ly/2SCKPwG</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            6.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>6.  <a
 href="http://bit.ly/2lkU8Tf" target="_blank">http://bit.ly/2lkU8Tf</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            7.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>7.  <a
 href="http://bit.ly/2I2gF03" target="_blank">http://bit.ly/2I2gF03</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            8.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>8.  <a
 href="http://bit.ly/2PJmvIa" target="_blank">http://bit.ly/2PJmvIa</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            9.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>9.  <a
 href="http://bit.ly/2ODfXhI" target="_blank">http://bit.ly/2ODfXhI</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            10. <a
+margin-left:72.0pt;margin-bottom:.0001pt'>10. <a
 href="http://bit.ly/2PPbzsm" target="_blank">http://bit.ly/2PPbzsm</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            11. <a
+margin-left:72.0pt;margin-bottom:.0001pt'>11. <a
 href="http://bit.ly/2KZlmOe" target="_blank">http://bit.ly/2KZlmOe</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            12. <a
+margin-left:72.0pt;margin-bottom:.0001pt'>12. <a
 href="http://bit.ly/2KUp4J0" target="_blank">http://bit.ly/2KUp4J0</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            13. <a
+margin-left:72.0pt;margin-bottom:.0001pt'>13. <a
 href="http://bit.ly/2mkHJiE" target="_blank">http://bit.ly/2mkHJiE</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            14. <a
+margin-left:72.0pt;margin-bottom:.0001pt'>14. <a
 href="http://bit.ly/2VvEk1g" target="_blank">http://bit.ly/2VvEk1g</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
@@ -292,47 +292,47 @@ little bit so the developers can keep on working on the bot to give you a
 better experience:</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            - My BTC address: 
+margin-left:72.0pt;margin-bottom:.0001pt'>- My BTC address: 
 1JvfagibJKxP6CJMgNV4Bd1aSxCP4LEiaf</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            - My BCH address: 
+margin-left:72.0pt;margin-bottom:.0001pt'>- My BCH address: 
 qrps7wasjqdgyrt8l6nj83tngme55lmzyvj2kt7k8g</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            - My ETH address: 
+margin-left:72.0pt;margin-bottom:.0001pt'>- My ETH address: 
 0xc3c31d194EF5c3408273Ee2163f32ae727a5AE32</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            - My LTC address: 
+margin-left:72.0pt;margin-bottom:.0001pt'>- My LTC address: 
 LSuXdwJH1qQsVJPmyiB5MLvFQr6gMfiGF2</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            - My DOGE address:
+margin-left:72.0pt;margin-bottom:.0001pt'>- My DOGE address:
 DDgLY6mqgipubPHRvs4yvvVAi6zbAAY6eV</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            - My ETC address: 
+margin-left:72.0pt;margin-bottom:.0001pt'>- My ETC address: 
 0x9b16F651e4B92cC3bB978ee96aE1a830896EdE25</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            - My USDT address: 
+margin-left:72.0pt;margin-bottom:.0001pt'>- My USDT address: 
 16xRYpCa3Kqonx2YzYFnaPLen7QC9MuZSq</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            - My BTG address: 
+margin-left:72.0pt;margin-bottom:.0001pt'>- My BTG address: 
 AdFP4D41gMAzb2oXGueBLNgiKfXUkHYhBE</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            - My XRP address: 
+margin-left:72.0pt;margin-bottom:.0001pt'>- My XRP address: 
 rK7LSKygRUu9y9xcuhkWbcMRKRF5HVWwVL</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            - My TRON address: 
+margin-left:72.0pt;margin-bottom:.0001pt'>- My TRON address: 
 TYkJxtpS126Pz9sVThMEQuknmTfyQzfqFP</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:36.0pt;margin-bottom:.0001pt'>            - My ADA address:
+margin-left:72.0pt;margin-bottom:.0001pt'>- My ADA address:
 DdzFFzCqrhspLG2yN3MduUKWKGL9iCJt7aK9pgTFJPvRtPC7ikw2P9rPCcMkiT7mqKwQaeWDaWrqkR4M1WGaQu27CPoCdzr9v28peSsr</p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>&nbsp;</p>
