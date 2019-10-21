@@ -1,0 +1,79 @@
+
+A. Please do not use NCT Dicebot Script. If you are like this:
+  - Greedy and set high base bet.
+  - Not following the instructions in "ATTENTION" of NCT Dicebot and alert of NCT Dicebot Script.
+
+B. Please read all lines carefully and always follow everything in "ATTENTION" of NCT Dicebot:
+
+      ________ ATTENTION_________
+	  
+1. Play only 3 times a day, separated by 3 hours.
+2. Don't be greedy. Many a little makes a mickle.
+3. Only run 1 script 1 account per site per IP and only you.
+4. Don't follow my videos. I test new scripts, high risk.
+5. If the chart is a line without any uptakes. Reboot NCTDicebot.
+6. Recommended: reboot NCT Dicebot after every 1 hour.
+7. Run latest NCT Dicebot. Do not run old version, high risk.
+8. Change new IP address, then create a new account before running NCT Dicebot Script.
+9. If total profit >= 30% of principal or after 3 times wins withdraw all money and change new IP, create a new account.
+10. If script auto stop or current profit >= 10% of principal. Stop and play again after 3 hours. Max 3 times a day. 
+11. Do not use 1 account, or the same IP address for too long, create new accounts with new ip adresses regularly for user safety.
+12. If you lose, withdraw all money and change to new IP, create a new account and play again.
+13. Remember that: Gambling is gambling no matter what you do or how good your strategy is. The house always wins if you keep playing. WINNERS KNOW WHEN TO STOP.
+
+14. REMEMBER:
+
+	14.1. Minimum balance: 0.015.	
+	14.2. Set Basebet: 
+		1. If balance <= 1: Basebet = 0.00000001. 
+		2. If balance > 1:  Basebet = your balance x 0.00000010. 
+	14.3. Set Target profit: 10%.
+	14.4. Set Largest Loss Amount (STOP LOSS): 100% or up to you.
+	14.5. Contact me every day to update latest NCT Dicebot Script.
+	14.6. Do not play big balance. High risk, you will lose quickly.
+		1. Safe balance: 50$. 
+		2. Maximum balance: 100$.
+
+15. To minimize risks, you MUST TEST my bot with a few Doge coins, Lucky coin or any free coin for about 1 day to know how my bot working before set higher basebet or run your coin.
+
+16. NCT Dicebot Script support all coins: BTC, BCH, ETH, ETC, LTC, DOGE, DASH, ZEC, XMR, BURST... and multiple websites: luckygames.io, luckyfish.io, casinoroyale.bet, wixiplay.io...and all dice sites of Dicebot.
+17. Recommended wallet:  http://bit.ly/2K7Vpef . Supports all coins, exchange instantly between any coins, low fees, fast, 2-step security, simple and easy to use, mobile app. I'm using it...very good.
+18. Recommended website to buy and exchange instantly between any coins: http://bit.ly/2Ll3mOW . Support all coins, fast, simple, easy to use. I'm using it...very good.
+19. Recommended dice sites. Support DOGE, BTC, BCH, ETH, ETC, LTC, DASH, ZEC, XMR, BURST... high win rate, fast, unlimited bet amount:
+	
+	19.1.  http://bit.ly/2uoLpnU
+	19.2.  http://bit.ly/2nDRidf
+	19.3.  http://bit.ly/2U3gkRd
+	19.4.  http://bit.ly/2OyDOhw
+	19.5.  http://bit.ly/2SCKPwG
+	19.6.  http://bit.ly/2lkU8Tf
+	19.7.  http://bit.ly/2I2gF03 
+	19.8.  http://bit.ly/2PJmvIa
+	19.9.  http://bit.ly/2ODfXhI
+	19.10. http://bit.ly/2PPbzsm
+	19.11. http://bit.ly/2KZlmOe
+	19.12. http://bit.ly/2KUp4J0
+	19.13. http://bit.ly/2mkHJiE
+	19.14. http://bit.ly/2VvEk1g
+
+20. I write the script according to your ideas. Contact me: Mail: nctgrape@gmail.com. Telegram: https://t.me/NCTDicebot
+21. Join and get tips for safe win: https://t.me/NCTDicebot_Channel . 
+22. My youtube channel -  NCT Dicebot: https://www.youtube.com/channel/UCq4wIDVzyClo9WnHWh4xjYQ/videos/
+23. Dowload bot and script: https://nctdicebot.blogspot.com/ 
+
+
+24. If you like NCT DiceBot, donate a little bit so the developers can keep on working on the bot to give you a better experience:
+
+	- My BTC address:  1JvfagibJKxP6CJMgNV4Bd1aSxCP4LEiaf
+	- My BCH address:  qrps7wasjqdgyrt8l6nj83tngme55lmzyvj2kt7k8g
+	- My ETH address:  0xc3c31d194EF5c3408273Ee2163f32ae727a5AE32
+	- My LTC address:  LSuXdwJH1qQsVJPmyiB5MLvFQr6gMfiGF2
+	- My DOGE address: DDgLY6mqgipubPHRvs4yvvVAi6zbAAY6eV
+	- My ETC address:  0x9b16F651e4B92cC3bB978ee96aE1a830896EdE25
+	- My USDT address:  16xRYpCa3Kqonx2YzYFnaPLen7QC9MuZSq
+	- My BTG address:  AdFP4D41gMAzb2oXGueBLNgiKfXUkHYhBE
+	- My XRP address:  rK7LSKygRUu9y9xcuhkWbcMRKRF5HVWwVL
+	- My TRON address:  TYkJxtpS126Pz9sVThMEQuknmTfyQzfqFP
+	- My ADA address: DdzFFzCqrhspLG2yN3MduUKWKGL9iCJt7aK9pgTFJPvRtPC7ikw2P9rPCcMkiT7mqKwQaeWDaWrqkR4M1WGaQu27CPoCdzr9v28peSsr
+
+26. NOTE: A lot of bad guys tried to crack my bot. So ... I used some software to protect and anti - decompile source code. This makes some anti-virus software misunderstand my bot. I make sure my bot is safe and clean. If you feel unsafe, you don't need to use my bot 👍.
