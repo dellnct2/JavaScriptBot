@@ -1,79 +1,278 @@
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI Symbol";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoChpDefault
+	{font-size:12.0pt;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:841.7pt 595.45pt;
+	margin:36.0pt 36.0pt 36.0pt 36.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
 
-A. Please do not use NCT Dicebot Script. If you are like this:
-  - Greedy and set high base bet.
-  - Not following the instructions in "ATTENTION" of NCT Dicebot and alert of NCT Dicebot Script.
+<div class=WordSection1>
 
-B. Please read all lines carefully and always follow everything in "ATTENTION" of NCT Dicebot:
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>&nbsp;</p>
 
-      ________ ATTENTION_________
-	  
-1. Play only 3 times a day, separated by 3 hours.
-2. Don't be greedy. Many a little makes a mickle.
-3. Only run 1 script 1 account per site per IP and only you.
-4. Don't follow my videos. I test new scripts, high risk.
-5. If the chart is a line without any uptakes. Reboot NCTDicebot.
-6. Recommended: reboot NCT Dicebot after every 1 hour.
-7. Run latest NCT Dicebot. Do not run old version, high risk.
-8. Change new IP address, then create a new account before running NCT Dicebot Script.
-9. If total profit >= 30% of principal or after 3 times wins withdraw all money and change new IP, create a new account.
-10. If script auto stop or current profit >= 10% of principal. Stop and play again after 3 hours. Max 3 times a day. 
-11. Do not use 1 account, or the same IP address for too long, create new accounts with new ip adresses regularly for user safety.
-12. If you lose, withdraw all money and change to new IP, create a new account and play again.
-13. Remember that: Gambling is gambling no matter what you do or how good your strategy is. The house always wins if you keep playing. WINNERS KNOW WHEN TO STOP.
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>A. Please do
+not use NCT Dicebot Script. If you are like this:</p>
 
-14. REMEMBER:
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>  - Greedy
+and set high base bet.</p>
 
-	14.1. Minimum balance: 0.015.	
-	14.2. Set Basebet: 
-		1. If balance <= 1: Basebet = 0.00000001. 
-		2. If balance > 1:  Basebet = your balance x 0.00000010. 
-	14.3. Set Target profit: 10%.
-	14.4. Set Largest Loss Amount (STOP LOSS): 100% or up to you.
-	14.5. Contact me every day to update latest NCT Dicebot Script.
-	14.6. Do not play big balance. High risk, you will lose quickly.
-		1. Safe balance: 50$. 
-		2. Maximum balance: 100$.
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>  - Not
+following the instructions in &quot;ATTENTION&quot; of NCT Dicebot and alert of
+NCT Dicebot Script.</p>
 
-15. To minimize risks, you MUST TEST my bot with a few Doge coins, Lucky coin or any free coin for about 1 day to know how my bot working before set higher basebet or run your coin.
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>&nbsp;</p>
 
-16. NCT Dicebot Script support all coins: BTC, BCH, ETH, ETC, LTC, DOGE, DASH, ZEC, XMR, BURST... and multiple websites: luckygames.io, luckyfish.io, casinoroyale.bet, wixiplay.io...and all dice sites of Dicebot.
-17. Recommended wallet:  http://bit.ly/2K7Vpef . Supports all coins, exchange instantly between any coins, low fees, fast, 2-step security, simple and easy to use, mobile app. I'm using it...very good.
-18. Recommended website to buy and exchange instantly between any coins: http://bit.ly/2Ll3mOW . Support all coins, fast, simple, easy to use. I'm using it...very good.
-19. Recommended dice sites. Support DOGE, BTC, BCH, ETH, ETC, LTC, DASH, ZEC, XMR, BURST... high win rate, fast, unlimited bet amount:
-	
-	19.1.  http://bit.ly/2uoLpnU
-	19.2.  http://bit.ly/2nDRidf
-	19.3.  http://bit.ly/2U3gkRd
-	19.4.  http://bit.ly/2OyDOhw
-	19.5.  http://bit.ly/2SCKPwG
-	19.6.  http://bit.ly/2lkU8Tf
-	19.7.  http://bit.ly/2I2gF03 
-	19.8.  http://bit.ly/2PJmvIa
-	19.9.  http://bit.ly/2ODfXhI
-	19.10. http://bit.ly/2PPbzsm
-	19.11. http://bit.ly/2KZlmOe
-	19.12. http://bit.ly/2KUp4J0
-	19.13. http://bit.ly/2mkHJiE
-	19.14. http://bit.ly/2VvEk1g
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>B. Please
+read all lines carefully and always follow everything in &quot;ATTENTION&quot;
+of NCT Dicebot:</p>
 
-20. I write the script according to your ideas. Contact me: Mail: nctgrape@gmail.com. Telegram: https://t.me/NCTDicebot
-21. Join and get tips for safe win: https://t.me/NCTDicebot_Channel . 
-22. My youtube channel -  NCT Dicebot: https://www.youtube.com/channel/UCq4wIDVzyClo9WnHWh4xjYQ/videos/
-23. Dowload bot and script: https://nctdicebot.blogspot.com/ 
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>&nbsp;</p>
 
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>     
+________ ATTENTION_________</p>
 
-24. If you like NCT DiceBot, donate a little bit so the developers can keep on working on the bot to give you a better experience:
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>             
+</p>
 
-	- My BTC address:  1JvfagibJKxP6CJMgNV4Bd1aSxCP4LEiaf
-	- My BCH address:  qrps7wasjqdgyrt8l6nj83tngme55lmzyvj2kt7k8g
-	- My ETH address:  0xc3c31d194EF5c3408273Ee2163f32ae727a5AE32
-	- My LTC address:  LSuXdwJH1qQsVJPmyiB5MLvFQr6gMfiGF2
-	- My DOGE address: DDgLY6mqgipubPHRvs4yvvVAi6zbAAY6eV
-	- My ETC address:  0x9b16F651e4B92cC3bB978ee96aE1a830896EdE25
-	- My USDT address:  16xRYpCa3Kqonx2YzYFnaPLen7QC9MuZSq
-	- My BTG address:  AdFP4D41gMAzb2oXGueBLNgiKfXUkHYhBE
-	- My XRP address:  rK7LSKygRUu9y9xcuhkWbcMRKRF5HVWwVL
-	- My TRON address:  TYkJxtpS126Pz9sVThMEQuknmTfyQzfqFP
-	- My ADA address: DdzFFzCqrhspLG2yN3MduUKWKGL9iCJt7aK9pgTFJPvRtPC7ikw2P9rPCcMkiT7mqKwQaeWDaWrqkR4M1WGaQu27CPoCdzr9v28peSsr
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>1. Play only
+3 times a day, separated by 3 hours.</p>
 
-26. NOTE: A lot of bad guys tried to crack my bot. So ... I used some software to protect and anti - decompile source code. This makes some anti-virus software misunderstand my bot. I make sure my bot is safe and clean. If you feel unsafe, you don't need to use my bot 👍.
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>2. Don't be
+greedy. Many a little makes a mickle.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>3. Only run
+1 script 1 account per site per IP and only you.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>4. Don't
+follow my videos. I test new scripts, high risk.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>5. If the
+chart is a line without any uptakes. Reboot NCTDicebot.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>6.
+Recommended: reboot NCT Dicebot after every 1 hour.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>7. Run
+latest NCT Dicebot. Do not run old version, high risk.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>8. Change
+new IP address, then create a new account before running NCT Dicebot Script.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>9. If total
+profit &gt;= 30% of principal or after 3 times wins withdraw all money and
+change new IP, create a new account.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>10. If
+script auto stop or current profit &gt;= 10% of principal. Stop and play again
+after 3 hours. Max 3 times a day. </p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>11. Do not
+use 1 account, or the same IP address for too long, create new accounts with
+new ip adresses regularly for user safety.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>12. If you
+lose, withdraw all money and change to new IP, create a new account and play
+again.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>13. Remember
+that: Gambling is gambling no matter what you do or how good your strategy is.
+The house always wins if you keep playing. WINNERS KNOW WHEN TO STOP.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>14.
+REMEMBER:</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            14.1.
+Minimum balance: 0.015.          </p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            14.2.
+Set Basebet: </p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>                        1.
+If balance &lt;= 1: Basebet = 0.00000001. </p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>                        2.
+If balance &gt; 1:  Basebet = your balance x 0.00000010. </p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            14.3.
+Set Target profit: 10%.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            14.4.
+Set Largest Loss Amount (STOP LOSS): 100% or up to you.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            14.5.
+Contact me every day to update latest NCT Dicebot Script.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            14.6.
+Do not play big balance. High risk, you will lose quickly.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>                        1.
+Safe balance: 50$. </p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>                        2.
+Maximum balance: 100$.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>15. To
+minimize risks, you MUST TEST my bot with a few Doge coins, Lucky coin or any
+free coin for about 1 day to know how my bot working before set higher basebet
+or run your coin.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>16. NCT
+Dicebot Script support all coins: BTC, BCH, ETH, ETC, LTC, DOGE, DASH, ZEC,
+XMR, BURST... and multiple websites: luckygames.io, luckyfish.io,
+casinoroyale.bet, wixiplay.io...and all dice sites of Dicebot.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>17.
+Recommended wallet:  http://bit.ly/2K7Vpef . Supports all coins, exchange
+instantly between any coins, low fees, fast, 2-step security, simple and easy
+to use, mobile app. I'm using it...very good.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>18.
+Recommended website to buy and exchange instantly between any coins:
+http://bit.ly/2Ll3mOW . Support all coins, fast, simple, easy to use. I'm using
+it...very good.</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>19.
+Recommended dice sites. Support DOGE, BTC, BCH, ETH, ETC, LTC, DASH, ZEC, XMR,
+BURST... high win rate, fast, unlimited bet amount:</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            19.1. 
+http://bit.ly/2uoLpnU</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            19.2. 
+http://bit.ly/2nDRidf</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            19.3. 
+http://bit.ly/2U3gkRd</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            19.4. 
+http://bit.ly/2OyDOhw</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            19.5. 
+http://bit.ly/2SCKPwG</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            19.6. 
+http://bit.ly/2lkU8Tf</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            19.7. 
+http://bit.ly/2I2gF03 </p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            19.8. 
+http://bit.ly/2PJmvIa</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            19.9. 
+http://bit.ly/2ODfXhI</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            19.10.
+http://bit.ly/2PPbzsm</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            19.11.
+http://bit.ly/2KZlmOe</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            19.12.
+http://bit.ly/2KUp4J0</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            19.13.
+http://bit.ly/2mkHJiE</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            19.14.
+http://bit.ly/2VvEk1g</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>20. I write
+the script according to your ideas. Contact me: Mail: nctgrape@gmail.com.
+Telegram: https://t.me/NCTDicebot</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>21. Join and
+get tips for safe win: https://t.me/NCTDicebot_Channel . </p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>22. My
+youtube channel -  NCT Dicebot:
+https://www.youtube.com/channel/UCq4wIDVzyClo9WnHWh4xjYQ/videos/</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>23. Dowload
+bot and script: https://nctdicebot.blogspot.com/ </p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>24. If you
+like NCT DiceBot, donate a little bit so the developers can keep on working on
+the bot to give you a better experience:</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            -
+My BTC address:  1JvfagibJKxP6CJMgNV4Bd1aSxCP4LEiaf</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            -
+My BCH address:  qrps7wasjqdgyrt8l6nj83tngme55lmzyvj2kt7k8g</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            -
+My ETH address:  0xc3c31d194EF5c3408273Ee2163f32ae727a5AE32</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            -
+My LTC address:  LSuXdwJH1qQsVJPmyiB5MLvFQr6gMfiGF2</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            -
+My DOGE address: DDgLY6mqgipubPHRvs4yvvVAi6zbAAY6eV</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            -
+My ETC address:  0x9b16F651e4B92cC3bB978ee96aE1a830896EdE25</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            -
+My USDT address:  16xRYpCa3Kqonx2YzYFnaPLen7QC9MuZSq</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            -
+My BTG address:  AdFP4D41gMAzb2oXGueBLNgiKfXUkHYhBE</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            -
+My XRP address:  rK7LSKygRUu9y9xcuhkWbcMRKRF5HVWwVL</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            -
+My TRON address:  TYkJxtpS126Pz9sVThMEQuknmTfyQzfqFP</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>            -
+My ADA address:
+DdzFFzCqrhspLG2yN3MduUKWKGL9iCJt7aK9pgTFJPvRtPC7ikw2P9rPCcMkiT7mqKwQaeWDaWrqkR4M1WGaQu27CPoCdzr9v28peSsr</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>&nbsp;</p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'>26. NOTE: A
+lot of bad guys tried to crack my bot. So ... I used some software to protect
+and anti - decompile source code. This makes some anti-virus software
+misunderstand my bot. I make sure my bot is safe and clean. If you feel unsafe,
+you don't need to use my bot <span style='font-family:"Segoe UI Symbol",sans-serif'>&#128077;</span>.</p>
+
+</div>
