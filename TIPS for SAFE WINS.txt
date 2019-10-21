@@ -2,39 +2,68 @@
 <!--
  /* Font Definitions */
  @font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;}
+{
+	font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+}
+
 @font-face
-	{font-family:Calibri;
-	panose-1:2 15 5 2 2 2 4 3 2 4;}
+{
+	font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+}
+
 @font-face
-	{font-family:"Segoe UI Symbol";
-	panose-1:2 11 5 2 4 2 4 2 2 3;}
+{
+	font-family:"Segoe UI Symbol";
+	panose-1:2 11 5 2 4 2 4 2 2 3;
+}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin-top:0cm;
+{
+	margin-top:0cm;
 	margin-right:0cm;
 	margin-bottom:8.0pt;
 	margin-left:0cm;
 	line-height:107%;
 	font-size:12.0pt;
-	font-family:"Times New Roman",serif;}
+	font-family:"Times New Roman",serif;
+	width: 96%;
+}
+
 a:link, span.MsoHyperlink
-	{color:#0563C1;
-	text-decoration:underline;}
+{
+	color:#0563C1;
+	text-decoration:underline;
+}
+
 a:visited, span.MsoHyperlinkFollowed
-	{color:#954F72;
-	text-decoration:underline;}
+{
+	color:#954F72;
+	text-decoration:underline;
+}
+
 .MsoChpDefault
-	{font-size:12.0pt;}
+{
+	font-size:12.0pt;
+}
+
 .MsoPapDefault
-	{margin-bottom:8.0pt;
-	line-height:107%;}
+{
+	margin-bottom:8.0pt;
+	line-height:107%;
+}
+
 @page WordSection1
-	{size:841.7pt 595.45pt;
-	margin:36.0pt 36.0pt 36.0pt 36.0pt;}
+{
+	size:841.7pt 595.45pt;
+	margin:36.0pt 36.0pt 36.0pt 36.0pt;
+}
+
 div.WordSection1
-	{page:WordSection1;}
+{
+	page:WordSection1;
+}
 -->
 </style>
 
@@ -207,39 +236,39 @@ DOGE, BTC, BCH, ETH, ETC, LTC, DASH, ZEC, XMR, BURST... high win rate, fast,
 unlimited bet amount:</p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:72.0pt;margin-bottom:.0001pt'>1.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>1.&nbsp;&nbsp;&nbsp;<a
 href="http://bit.ly/2uoLpnU" target="_blank">http://bit.ly/2uoLpnU</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:72.0pt;margin-bottom:.0001pt'>2.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>2.&nbsp;&nbsp;&nbsp;<a
 href="http://bit.ly/2nDRidf" target="_blank">http://bit.ly/2nDRidf</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:72.0pt;margin-bottom:.0001pt'>3.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>3.&nbsp;&nbsp;&nbsp;<a
 href="http://bit.ly/2U3gkRd" target="_blank">http://bit.ly/2U3gkRd</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:72.0pt;margin-bottom:.0001pt'>4.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>4.&nbsp;&nbsp;&nbsp;<a
 href="http://bit.ly/2OyDOhw" target="_blank">http://bit.ly/2OyDOhw</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:72.0pt;margin-bottom:.0001pt'>5.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>5.&nbsp;&nbsp;&nbsp;<a
 href="http://bit.ly/2SCKPwG" target="_blank">http://bit.ly/2SCKPwG</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:72.0pt;margin-bottom:.0001pt'>6.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>6.&nbsp;&nbsp;&nbsp;<a
 href="http://bit.ly/2lkU8Tf" target="_blank">http://bit.ly/2lkU8Tf</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:72.0pt;margin-bottom:.0001pt'>7.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>7.&nbsp;&nbsp;&nbsp;<a
 href="http://bit.ly/2I2gF03" target="_blank">http://bit.ly/2I2gF03</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:72.0pt;margin-bottom:.0001pt'>8.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>8.&nbsp;&nbsp;&nbsp;<a
 href="http://bit.ly/2PJmvIa" target="_blank">http://bit.ly/2PJmvIa</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:72.0pt;margin-bottom:.0001pt'>9.  <a
+margin-left:72.0pt;margin-bottom:.0001pt'>9.&nbsp;&nbsp;&nbsp;<a
 href="http://bit.ly/2ODfXhI" target="_blank">http://bit.ly/2ODfXhI</a></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
@@ -282,7 +311,7 @@ href="https://www.youtube.com/channel/UCq4wIDVzyClo9WnHWh4xjYQ/videos/" target="
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:36.0pt;margin-bottom:.0001pt'>23. My blog: <a
-href="https://nctdicebot.blogspot.com/" target="_blank">https://nctdicebot.blogspot.com/</a> <br>
+href="https://nctdicebot.blogspot.com/" target="_blank">https://nctdicebot.blogspot.com/</a><br>
 <br>
 </p>
 
