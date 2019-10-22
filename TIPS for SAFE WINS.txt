@@ -11,12 +11,12 @@
 </style>
 
 <span style='padding: 0px 0px 0px 0px; font-family: "Times New Roman",serif; font-style: italic; color:#00B050'; font-size: 14px !important;> If you want to make a script support all coins for Dicebot, Luckygames, Luckyfish, Wixiplay, Casinoroyale, Wolf, 999dice, Yolodice, Bitsler or convert the script of Dicebot (lua script) to Luckygames script, Luckyfish script, Wixiplay script, Casinoroyale script, Wolf script, 999dice script, Yolodice script, Bitsler script. Please contact me. Mail: <a href="nctgrape@gmail.com" target="_blank" style='color: #b6c301;'>nctgrape@gmail.com</a>. Telegram: <a href="https://t.me/NCTDicebot" target="_blank" style='color: #b6c301;'>https://t.me/NCTDicebot</a></span>
-</br></br>
+<br /><br />
 
 <p class = 'TheP' style = 'padding: 0px 0px 0px 0px; font-weight: bold;'>A. Please do not use NCT Dicebot Script. If you are like this:</p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>1. Greedy and set high base bet.</p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>2. Not following the instructions in &quot;ATTENTION&quot; and alert of NCT Dicebot Script.</p>
-</br>
+<br />
 
 <p class = 'TheP' style = 'padding: 0px 0px 0px 0px; font-weight: bold;'>B. Please read all lines carefully and always follow everything in &quot;ATTENTION&quot; of NCT Dicebot:</p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>1. Play only 3 times a day, separated by 3 hours.</p>
@@ -32,7 +32,7 @@
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>11. Do not use 1 account, or the same IP address for too long, create new accounts with new ip adresses regularly for user safety.</p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>12. If you lose, withdraw all money and change to new IP, create a new account and play again.</p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>13. Remember that: Gambling is gambling no matter what you do or how good your strategy is. The house always wins if you keep playing. WINNERS KNOW WHEN TO STOP.</p>
-</br>
+<br />
 
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>14. REMEMBER:</p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 40px !important;'>1. Minimum balance: 0.015.</p>
@@ -45,7 +45,7 @@
 <p class = 'TheP' style = 'padding: 3px 0px 0px 40px !important;'>6. Do not play bigbalance. High risk, you will lose quickly:</p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 60px !important;'>1. Safe balance: 50$. </p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 60px !important;'>2. Maximum balance: 100$.</p>
-</br>
+<br />
 
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>15. To minimize risks, you MUST TEST my bot with a few Doge coins, Lucky coin or any free coin for about 1 day to know how my bot working before set higher basebet or run your coin.</p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>16. NCT Dicebot Script support all coins: BTC, BCH, ETH, ETC, LTC, DOGE, DASH, ZEC, XMR, BURST... and multiple websites: luckygames.io, luckyfish.io, casinoroyale.bet, wixiplay.io...and all dice sites of Dicebot.</p>
@@ -66,13 +66,13 @@
 <p class = 'TheP' style = 'padding: 3px 0px 0px 40px !important;'>12. <a href="http://bit.ly/2KUp4J0" target="_blank" style='color: #b6c301;'>http://bit.ly/2KUp4J0</a></p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 40px !important;'>13. <a href="http://bit.ly/2mkHJiE" target="_blank" style='color: #b6c301;'>http://bit.ly/2mkHJiE</a></p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 40px !important;'>14. <a href="http://bit.ly/2VvEk1g" target="_blank" style='color: #b6c301;'>http://bit.ly/2VvEk1g</a></p>
-</br>
+<br />
 
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>20. I write the script according to your ideas. Contact me: Mail: <a href="nctgrape@gmail.com" target="_blank" style='color: #b6c301;'>nctgrape@gmail.com</a>. Telegram: <a href="https://t.me/NCTDicebot" target="_blank" style='color: #b6c301;'>https://t.me/NCTDicebot</a></p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>21. Join and get tips for safe win. Download bot, script(updated daily): <a href="https://t.me/NCTDicebot_Channel" target="_blank" style='color: #b6c301;'>https://t.me/NCTDicebot_Channel</a>.</p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>22. My youtube channel -  NCTDicebot: <a href="https://www.youtube.com/channel/UCq4wIDVzyClo9WnHWh4xjYQ/videos/" target="_blank" style='color: #b6c301;' https://www.youtube.com/channel/UCq4wIDVzyClo9WnHWh4xjYQ/videos/></a></p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>23. My blog: <a href="https://nctdicebot.blogspot.com/" target="_blank" style='color: #b6c301;'>https://nctdicebot.blogspot.com/</a></p>
-</br>
+<br />
 
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>24. If you like NCT DiceBot, donate a little bit so the developers can keep on working on the bot to give you a better experience:</p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 40px !important;'>- My BTC address:  1JvfagibJKxP6CJMgNV4Bd1aSxCP4LEiaf</p>
@@ -86,7 +86,7 @@
 <p class = 'TheP' style = 'padding: 3px 0px 0px 40px !important;'>- My XRP address:  rK7LSKygRUu9y9xcuhkWbcMRKRF5HVWwVL</p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 40px !important;'>- My TRON address: TYkJxtpS126Pz9sVThMEQuknmTfyQzfqFP</p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 40px !important;'>- My ADA address:  DdzFFzCqrhspLG2yN3MduUKWKGL9iCJt7aK9pgTFJPvRtPC7ikw2P9rPCcMkiT7mqKwQaeWDaWrqkR4M1WGaQu27CPoCdzr9v28peSsr</p>
-</br>
+<br />
 
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>26. NOTE: A lot of bad guys tried to crack my bot. So ... I used some software to protect and anti - decompile source code. This makes some anti-virus software misunderstand my bot. I make sure my bot is safe and clean. If you feel unsafe, you don't need to use my bot.</p>
-</br></br></br>
+<br /><br /><br />
