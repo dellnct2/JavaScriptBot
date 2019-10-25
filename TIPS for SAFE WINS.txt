@@ -9,9 +9,7 @@
 }
 -->
 </style>
-
-<span style='padding: 0px 0px 0px 0px; font-family: "Times New Roman",serif; font-style: italic; color:#00B050'; font-size: 14px !important;> If you want to make a script support all coins for Dicebot, Luckygames, Luckyfish, Wixiplay, Casinoroyale, Wolf, 999dice, Yolodice, Bitsler or convert the script of Dicebot (lua script) to Luckygames script, Luckyfish script, Wixiplay script, Casinoroyale script, Wolf script, 999dice script, Yolodice script, Bitsler script. Please contact me. Mail: <a href="nctgrape@gmail.com" target="_blank" style='color: #b6c301;'>nctgrape@gmail.com</a>. Telegram: <a href="https://t.me/NCTDicebot" target="_blank" style='color: #b6c301;'>https://t.me/NCTDicebot</a></span>
-<br /><br />
+<br />
 
 <p class = 'TheP' style = 'padding: 0px 0px 0px 0px; font-weight: bold;'>A. Please do not use NCT Dicebot Script. If you are like this:</p>
 <p class = 'TheP' style = 'padding: 3px 0px 0px 20px !important;'>1. Greedy and set high base bet.</p>
